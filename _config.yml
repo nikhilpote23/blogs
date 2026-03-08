@@ -1,6 +1,6 @@
 # The Site Configuration
 url: "https://nikhilpote23.github.io"
-baseurl: "/blogs"
+baseurl: "/blogs" 
 htmlproofer: true   # keep true for production
 
 # Import the theme
