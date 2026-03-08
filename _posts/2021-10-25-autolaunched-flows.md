@@ -76,5 +76,3 @@ Marvel Industries wants to send weekly feedback emails to all customers.
 6. Debug, Save, and **Activate** the flow.
 
 **Tip:** Always build **fault paths** for error handling.
-
----
